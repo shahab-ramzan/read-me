@@ -43,9 +43,9 @@
     <br />
     <a href="https://canonizer3.canonizer.com/">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/the-canonizer/canonizer-3.0-frontend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/the-canonizer/canonizer-3.0-frontend/issues">Request Feature</a>
   </p>
 </div>
 
