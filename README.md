@@ -94,7 +94,7 @@ A wiki system that solves the critical liabilities of Wikipedia. It solves petty
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Short Description
 
 * [Next.js](https://nextjs.org/)
 * [Redux Toolkit](https://redux-toolkit.js.org/)
