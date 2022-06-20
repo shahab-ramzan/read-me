@@ -133,21 +133,21 @@ To get a local copy up and running follow these simple steps.
    ```sh
    cd canonizer-3.0-frontend
    ```
-4. Copy environment variables from `.env.example` to `.env` file
+3. Copy environment variables from `.env.example` to `.env` file
    ```sh
    cp .env.example .env
    ```
-4. Install NPM packages
+4. Install Dependency packages
    ```sh
-   npm install
+   yarn
    ```
-3. Run the Project
+5.  To start the hot-reloading development server
    ```sh
-   npm run dev
+   yarn dev
    ```
-4. Project will be hosted on:
+6. To open the site in your favorite browser
     ```sh
-    http://localhost:4000
+    open http://localhost:4000
     ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
