@@ -123,6 +123,13 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
+  
+  
+1. Git
+2. Node: any 12.x version starting with v12.0.0 or greater
+3. Yarn v1: See Yarn website for installation instructions
+4. A fork of the repo (for any contributions)
+5. A clone of the reactjs.org repo on your local machine
 
 ### Installation
 
