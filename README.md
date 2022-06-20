@@ -175,6 +175,11 @@ Contributions are what make the open source community such an amazing place to l
 If you have a suggestion that would make this better, please clone the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
+### Create a branch
+git checkout development from any folder in your local `canonizer-3.0-frontend` repository
+git pull origin development to ensure you have the latest main code
+git checkout -b the-name-of-my-branch (replacing the-name-of-my-branch with a suitable name) to create a branch
+
 1. Clone the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Pretiffy the code for standard indendation (`npm run format`)
