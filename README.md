@@ -132,7 +132,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    git clone https://github.com/the-canonizer/canonizer-3.0-frontend.git
    ```
-2. Copy environment variables from `.env.example` to `.env`
+2. Copy environment variables from `.env.example` to `.env` file
    ```sh
    cp .env.example .env
    ```
