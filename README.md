@@ -127,9 +127,9 @@ This is an example of how to list things you need to use the software and how to
   
 1. Git
 2. Node: any 12.x version starting with v12.0.0 or greater
-3. Yarn v1: See Yarn website for installation instructions
+3. Yarn v1: See [Yarn website for installation instructions](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
 4. A fork of the repo (for any contributions)
-5. A clone of the reactjs.org repo on your local machine
+5. A clone of the [canonizer-3.0-frontend](https://github.com/the-canonizer/canonizer-3.0-frontend) repo on your local machine
 
 ### Installation
 
