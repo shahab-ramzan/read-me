@@ -31,7 +31,7 @@
 <br />
 <table width="100%">
   <tr>
-    <td bgcolor="#000">
+    <td bgColor="#000">
       <a href="https://canonizer3.canonizer.com">
     <img src="https://canonizer-public-file.s3.us-east-2.amazonaws.com/site-images/logo.svg" alt="Logo">
   </a>
