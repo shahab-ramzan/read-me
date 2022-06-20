@@ -190,6 +190,11 @@ Don't forget to give the project a star! Thanks again!
 7. Push to the Branch (`git push origin feature/AmazingFeature`)
 8. Open a Pull Request
  -->
+ 
+ ###  Make the change
+1. Save the files and check in the browser
+2. Changes to React components in src will hot-reload
+ 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
