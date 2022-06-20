@@ -142,9 +142,9 @@ To get a local copy up and running follow these simple steps.
    yarn
    ```
 5.  To start the hot-reloading development server
-   ```sh
-   yarn dev
-   ```
+    ```sh
+    yarn dev
+    ```
 6. To open the site in your favorite browser
     ```sh
     open http://localhost:4000
