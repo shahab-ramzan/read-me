@@ -28,7 +28,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="center" style="background: #4484ce; padding: 15px;">
   <a href="https://canonizer3.canonizer.com">
     <img src="https://canonizer-public-file.s3.us-east-2.amazonaws.com/site-images/logo.svg" alt="Logo" width="80" height="80">
   </a>
@@ -37,11 +37,11 @@
 
   <p align="center">
     <br />
-    <a href="https://canonizer3.canonizer.com/">View Demo</a>
+    <a href="https://canonizer3.canonizer.com/" style="color: #FFF;">View Demo</a>
     ·
-    <a href="https://github.com/the-canonizer/canonizer-3.0-frontend/issues">Report Bug</a>
+    <a href="https://github.com/the-canonizer/canonizer-3.0-frontend/issues" style="color: #FFF;">Report Bug</a>
     ·
-    <a href="https://github.com/the-canonizer/canonizer-3.0-frontend/issues">Request Feature</a>
+    <a href="https://github.com/the-canonizer/canonizer-3.0-frontend/issues" style="color: #FFF;">Request Feature</a>
   </p>
 </div>
 
