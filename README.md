@@ -113,18 +113,10 @@ Short Description
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-  
-  
 1. Git
 2. Node: any 12.x version starting with v12.0.0 or greater
 3. Yarn v1: See [Yarn website for installation instructions](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
