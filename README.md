@@ -129,7 +129,11 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/the-canonizer/canonizer-3.0-frontend.git
    ```
-2. Copy environment variables from `.env.example` to `.env` file
+2. Go into the project root
+   ```sh
+   cd canonizer-3.0-frontend
+   ```
+4. Copy environment variables from `.env.example` to `.env` file
    ```sh
    cp .env.example .env
    ```
