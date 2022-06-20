@@ -102,6 +102,9 @@ Short Description
 * [Redux Toolkit](https://redux-toolkit.js.org/)
 * [Ant Design](https://ant.design/)
 * [Typescript](https://www.typescriptlang.org/)
+* Unit Testing
+  * [Jest](https://jestjs.io/)
+  * [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
