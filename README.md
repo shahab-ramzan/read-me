@@ -217,7 +217,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Brent Allsop - [@your_twitter](https://twitter.com/your_username) - brent.allsop@gmail.com
+Brent Allsop - [@Brent's_twitter](https://twitter.com/your_username) - brent.allsop@gmail.com
 
 Project Link: [https://canonizer3.canonizer.com](https://canonizer3.canonizer.com)
 <p align="right">(<a href="#top">back to top</a>)</p>
