@@ -70,7 +70,11 @@
     <li>
       <a href="#contributing">Contributing</a>
       <ul>
-         <li><a href="#Create-a-branch">Create a branch</a></li>
+        <li><a href="#Create-a-branch">Create a branch</a></li>
+        <li><a href="#Make-the-change">Make the change</a></li>
+        <li><a href="#Test-the-change">Test the change</a></li>
+        <li><a href="#Push-the-change">Push the change</a></li>
+        
       </ul>
     </li>
     <li><a href="#license">License</a></li>
