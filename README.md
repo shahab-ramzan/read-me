@@ -33,7 +33,6 @@
   <a href="https://canonizer3.canonizer.com">
     <img src="https://github.com/shahab-ramzan/read-me/blob/main/canonizer-fav.png" alt="Logo" width='100' >
   </a>
-
   <h3 align="center">Canonizer-3.0</h3>
 
   <p align="center">
@@ -77,7 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://canonizer3.canonizer.com)
 
 A wiki system that solves the critical liabilities of Wikipedia. It solves petty "edit wars" by providing contributors the ability to create and join camps and present their views without having them immediately erased. It also provides ways to standardise definitions and vocabulary, especially important in new fields.
 
@@ -226,4 +225,4 @@ Project Link: [https://canonizer3.canonizer.com](https://canonizer3.canonizer.co
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/shahab-ramzan/read-me/blob/main/Canonizer%20(1).png
