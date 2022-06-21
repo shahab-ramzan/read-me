@@ -189,6 +189,16 @@ Don't forget to give the project a star! Thanks again!
 1. If possible, test any visual changes in all latest versions of common browsers, on both desktop and mobile.
 2. Run `yarn test` from the project root to ensure that no one test case is being failed.
 3. Run `yarn format` from the project root. (This will run Prettier)
+4. Run `yarn build` from the project root to ensure that build is created successfully. 
+
+
+
+ ###  Push it
+1. `git add -A && git commit -m "My message"` (replacing `My message` with a commit message, such as `Fix header logo on mobile screen`) to stage and commit your changes
+2. `git push my-fork-name the-name-of-my-branch`
+3. Go to the [canonizer-3.0-frontend repo](https://github.com/the-canonizer/canonizer-3.0-frontend) repo and you should see recently pushed branches.
+4. Follow GitHub's instructions to create the Pull Request.
+5. If possible, include screenshots of visual changes. 
  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
