@@ -182,8 +182,16 @@ Don't forget to give the project a star! Thanks again!
  ###  Make the change
 1. Save the files and check in the browser
 2. Changes to React components in src will hot-reload
+
+
+
+ ###  Test the change
+1. If possible, test any visual changes in all latest versions of common browsers, on both desktop and mobile.
+2. Run `yarn test` from the project root to ensure that no one test case is being failed.
+3. Run `yarn format` from the project root. (This will run Prettier)
  
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
