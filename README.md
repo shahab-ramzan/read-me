@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://canonizer3.canonizer.com">
-    <img src="https://canonizer-public-file.s3.us-east-2.amazonaws.com/site-images/logo.svg" alt="Logo">
+    <img src="https://github.com/shahab-ramzan/read-me/blob/main/canonizer-fav.png" alt="Logo" width='100' >
   </a>
 
   <h3 align="center">Canonizer-3.0</h3>
