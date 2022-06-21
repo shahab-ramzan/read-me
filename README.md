@@ -29,17 +29,10 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<table width="100%">
-  <tr>
-    <td bgColor="#000">
-      <a href="https://canonizer3.canonizer.com">
+<div align="center">
+  <a href="https://canonizer3.canonizer.com">
     <img src="https://canonizer-public-file.s3.us-east-2.amazonaws.com/site-images/logo.svg" alt="Logo">
   </a>
-    </td>
-  </tr>
-</table>
-<div align="center" style="background: #4484ce; padding: 15px;">
-  
 
   <h3 align="center">Canonizer-3.0</h3>
 
