@@ -125,15 +125,6 @@ To get a local copy up and running follow these simple steps.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- USAGE EXAMPLES -->
-
-
-
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
