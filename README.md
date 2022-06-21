@@ -69,7 +69,6 @@ A wiki system that solves the critical liabilities of Wikipedia. It solves petty
 
 ### Built With
 
-Short Description
 
 * [Next.js](https://nextjs.org/)
 * [Redux Toolkit](https://redux-toolkit.js.org/)
@@ -177,7 +176,7 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- LICENSE -->
 ## License
-Will be added
+Will be added.
 <!-- 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
  -->
