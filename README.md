@@ -67,7 +67,12 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li>
+      <a href="#contributing">Contributing</a>
+      <ul>
+         <li><a href="#Create-a-branch">Create a branch</a></li>
+      </ul>
+    </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -193,7 +198,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 
- ###  Push it
+ ###  Push the change
 1. `git add -A && git commit -m "My message"` (replacing `My message` with a commit message, such as `Fix header logo on mobile screen`) to stage and commit your changes
 2. `git push my-fork-name the-name-of-my-branch`
 3. Go to the [canonizer-3.0-frontend repo](https://github.com/the-canonizer/canonizer-3.0-frontend) repo and you should see recently pushed branches.
@@ -207,9 +212,10 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- LICENSE -->
 ## License
-
+Will be added
+<!-- 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
+ -->
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
