@@ -18,12 +18,14 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<div align='center'>
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+  </div>
 
 
 
@@ -31,7 +33,7 @@
 <br />
 <div align="center">
   <a href="https://canonizer3.canonizer.com">
-    <img src="https://github.com/shahab-ramzan/read-me/blob/main/canonizer-fav.png" alt="Logo" width='100' >
+    <img src="https://github.com/shahab-ramzan/read-me/blob/main/canonizer-fav.png" alt="Logo" width='80' >
   </a>
   <h3 align="center">Canonizer-3.0</h3>
 
