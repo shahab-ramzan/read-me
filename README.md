@@ -15,7 +15,7 @@
     ·
     <a href="https://github.com/the-canonizer/canonizer-3.0-frontend/issues" style="color: #FFF;">Report Bug</a>
     ·
-    <a href="https://github.com/the-canonizer/canonizer-3.0-frontend/issues" style="color: #FFF;">Request Feature</a>
+    <a href="https://github.com/the-canonizer/canonizer-3.0-frontend/issues" style="color: #FFF;">Request New Feature</a>
   </p>
 </div>
 
